@@ -28,6 +28,7 @@ A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B=np.array([-9,4,-1])
 solu=np.linalg.solve(A,B)
 print(solu)
+```
 
 ## Output:
 ![Screenshot 2024-04-14 193837](https://github.com/sanjana1605/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155608340/c78c515b-afc8-421e-b034-fa358db79c91)
